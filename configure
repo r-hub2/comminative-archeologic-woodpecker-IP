@@ -2657,8 +2657,6 @@ else
   echo "*** then re-install package IP to enable IDN support"
 fi
 
-RIP_CFLAGS="${RIP_CFLAGS} -DSHA1DC_FORCE_ALIGNED_ACCESS"
-
 # AC_MSG_NOTICE([LIBIDN: $LIBIDN])
 
 : ${R_HOME=`R RHOME`}

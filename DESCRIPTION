@@ -27,4 +27,4 @@ Imports: stringi
 Suggests: knitr, rmarkdown, markdown
 VignetteBuilder: knitr
 Encoding: UTF-8
-Packaged: 2025-05-06 15:41:25 UTC; user
+Packaged: 2025-05-06 16:35:08 UTC; user
